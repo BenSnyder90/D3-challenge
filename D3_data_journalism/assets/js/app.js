@@ -10,7 +10,7 @@ var margin = {
   left: 100
 };
 
-//Create heigght and width variables for chart area of SVG
+//Create height and width variables for chart area of SVG
 var width = svgWidth - margin.left - margin.right;
 var height = svgHeight - margin.top - margin.bottom;
 
